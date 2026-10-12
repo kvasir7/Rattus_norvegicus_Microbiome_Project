@@ -1,0 +1,6 @@
+37c37,39
+<     git clone https://github.com/Microbial-Ecology-Group/AmrPlusPlus_SNP.git
+---
+>     # Compute nodes on this cluster have no outbound network access, so the
+>     # repository is cloned once on the login node into bin/ and copied here.
+>     cp -r $baseDir/bin/AmrPlusPlus_SNP .

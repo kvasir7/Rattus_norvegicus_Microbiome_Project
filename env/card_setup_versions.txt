@@ -1,0 +1,9 @@
+Setup date: Thu Oct  8 05:45:49 PM EDT 2026
+RGI: 6.0.8
+CARD database: 4.0.2
+WildCARD version: 4.0.2
+KMA-1.6.18
+CARD and WildCARD downloaded: 2026-10-08 via https://card.mcmaster.ca/latest/data and /latest/variants
+Host/adapter filtering: Qiita artifact 234379 (qp-fastp-minimap2 2023.12, reference=rat), study 16318
+CARD and WildCARD downloaded: 2026-10-08 via https://card.mcmaster.ca/latest/data and /latest/variants
+Host/adapter filtering: Qiita artifact 234379 (qp-fastp-minimap2 2023.12, reference=rat), study 16318

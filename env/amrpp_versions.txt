@@ -1,0 +1,2 @@
+AMR++ commit 4a94623fa1b8ff6440848e9f10cd77a0555f2923 (2026-10-08 16:47:51 -0600)
+MEGARes v4.00, container enriquedoster/amrplusplus:4.0.0, Nextflow 26.04.3
